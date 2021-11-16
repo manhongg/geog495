@@ -18,7 +18,7 @@
 
 
 Web & Mobile GIS, the combination of web, mobile technology, and GIS, is a promising and fast-growing field. It has extended the power of GIS from local servers to the cloud, and put online maps and geospatial intelligence in multiple aspects of human society. This course aims to provide students with the essential knowledge needed for managing web & mobile GIS projects, teach students the latest geospatial cloud technologies needed for building modern web GIS applications, and inspire students with real-world case studies. To cultivate the spirit of open source, all the required software, packages are open source, and the course handout will be shared on GitHub. To promote the equal access to web mapping technology, we ensure all the Web GIS applications from course materials can be opened, debugged or further developed in either Windows or Mac OSX operating systems, and all the relevant software or services are either open source or free. This course is comprised of two major components, including lectures and lab exercises. The lectures focus on the theories and principles behind Web GIS, including the web architecture, front-end coding, responsive design, web based spatial analyses.
-pin
+
 **The course schedule might be slightly updated when the quarter unfolds, the latest schedule will be on the github repository front page. Please ensure to check it frequently.** If you have any question :raising_hand:, feel free to contact [Dr. Bo Zhao](mail://zhaobo@uw.edu).
 
 
@@ -114,19 +114,21 @@ In this week, we will focus on geospatial web servers. A geospatial web server p
 <!-- Oct 25 -->
 
 -   **Readings:**
-    - [Web Map Service from GeoServer](https://docs.geoserver.org/latest/en/user/services/wms/index.html)
-    - [Publish a shapefile](https://docs.geoserver.org/latest/en/user/gettingstarted/shapefile-quickstart/index.html)
+    - [Web map service from GeoServer](https://docs.geoserver.org/latest/en/user/services/wms/index.html)
+    - [Publish geospatial data on GeoServer](https://docs.geoserver.org/latest/en/user/gettingstarted/shapefile-quickstart/index.html)
+    - starting from this week, we will have active learnings in class. So please make sure read the reading materials before class. Here in a list of [active learning activities](modules/module05/readme.md) that will be demonstrated in the lecture session.
 
-### Week 6 : Thematic Map Design on the web
+
+### Week 6 : Thematic Map Design on the Web
 
 In this week, we will introduce you to map making on the web. The web based interactive map is built upon MapBox, which is a popular map library. It not only contains fundamental map related functions, but also offers a lot of cool map features for your use and further explore. In this week, we will walk you through at least two mapbox applications, and you will use mapbox to make an interactive web map in the lab session.
 
 <!-- Nov 1 -->
 
 -   **Readings:**
-    - [making thematic map using mapbox](https://docs.mapbox.com/help/tutorials/create-a-map-with-data-visualization-component/)
-    - [Add custom markers in Mapbox GL JS](https://docs.mapbox.com/help/tutorials/custom-markers-gl-js/)
-
+    - [Making thematic map on the web](https://docs.mapbox.com/help/tutorials/create-a-map-with-data-visualization-component/)
+    - [Add interactive makers to web maps](https://docs.mapbox.com/help/tutorials/custom-markers-gl-js/)
+    list of [active learning activities](modules/module06/readme.md) that will be demonstrated in the lecture session.
 
 -   **Lab 4:** [Interactive web mapping](labs/lab04) `Due: Nov 12th, by 11:59pm`
 
@@ -142,17 +144,18 @@ In this week, we will start a series of lectures on web-based spatial analysis. 
     - [Local search with the Geocoding API](https://docs.mapbox.com/help/tutorials/local-search-geocoding-api/)
 
 
-### Week 8 : Web-based spatial analysis I: Sorting by distance
+### Week 8 : Web-based Spatial Analysis I: Sorting by Distance
 
 In this week, we will introduce you to a basic spatial analysis that uses distance to sort geographical data. This application is made upon MapBox too. Starting from this week, you will work on your final project. Its requirement will be introduced in this week's lab session. In short, you will need to make an advanced spatial analysis to deal with a real-world problem.
 
 <!-- Nov 15 -->
 
 -   **Readings:** 
-    - [Sort data by Distance](https://docs.mapbox.com/help/tutorials/building-a-store-locator/)
--   **Final Project:** [Web-based spatial analysis](labs/lab05) 
+    - [Sort data by Distance: Part I](https://docs.mapbox.com/help/tutorials/building-a-store-locator/)
+    - [Sort data by Distance: Part II](https://docs.mapbox.com/help/tutorials/geocode-and-sort-stores/)
+-   **Final Project:** [Web GIS Application](project/readme.md) 
 
-### Week 9 : Dealing with time on the web
+### Week 9 : Dealing with Time on the Web
 
 In this week, we will introduce how to deal with time on the web. During the lectures, the instructor will walk you through a more complicated application that illustrate how geographical data changes over time. In the lab session, you will continue to work on your final project.
 
@@ -162,7 +165,7 @@ In this week, we will introduce how to deal with time on the web. During the lec
     [Visualize geographical changes over time](https://docs.mapbox.com/help/tutorials/show-changes-over-time/)
 
 
-### Week 10 : Web-based spatial analysis II
+### Week 10 : Web-based Spatial Analysis II
 
 This week will still focus on web-based spatial analysis. One is on nearest neighbor analysis and the second is on buffer and isochrone analysis.
 
@@ -173,13 +176,12 @@ This week will still focus on web-based spatial analysis. One is on nearest neig
     - [Buffer and isochrone analysis](https://docs.mapbox.com/help/tutorials/get-started-isochrone-api/)
 
 
-### Week 11 : Summary and Final Project Presentation
+### Week 11 : Summary
 
-In the first lecture of this week, the instructor will share with you a summary of this course and some emerging topics to explore. During the lecture on Thursday and the lab session, each student will present the final project to the whole class. More information about final project will be shared after the mid-term.
+The lecture on Tuesday will be cancelled. In the second lecture of this week, the instructor will share with you a summary of this course and some emerging topics to explore. 
 
 
 <!-- Dec 6 -->
-
 
 
 ## :bell: Course Requirement
